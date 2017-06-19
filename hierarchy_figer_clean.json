@@ -1,0 +1,402 @@
+{
+  "name": "/common/topic", 
+  "children": [
+   {
+    "name": "/finance", 
+    "children": [
+     {
+      "name": "/finance/currency"
+     }, 
+     {
+      "name": "/finance/stock_exchange"
+     }
+    ]
+   }, 
+   {
+    "name": "/transit"
+   }, 
+   {
+    "name": "/game"
+   }, 
+   {
+    "name": "/military"
+   }, 
+   {
+    "name": "/visual_art/color"
+   }, 
+   {
+    "name": "/law"
+   }, 
+   {
+    "name": "/metropolitan_transit/transit_line"
+   }, 
+   {
+    "name": "/transportation/road"
+   }, 
+   {
+    "name": "/event", 
+    "children": [
+     {
+      "name": "/event/military_conflict"
+     }, 
+     {
+      "name": "/event/protest"
+     }, 
+     {
+      "name": "/event/attack"
+     }, 
+     {
+      "name": "/event/election"
+     }, 
+     {
+      "name": "/event/natural_disaster"
+     }, 
+     {
+      "name": "/event/sports_event"
+     }, 
+     {
+      "name": "/event/terrorist_attack"
+     }
+    ]
+   }, 
+   {
+    "name": "/medicine", 
+    "children": [
+     {
+      "name": "/medicine/symptom"
+     }, 
+     {
+      "name": "/medicine/medical_treatment"
+     }, 
+     {
+      "name": "/medicine/drug"
+     }
+    ]
+   }, 
+   {
+    "name": "/internet", 
+    "children": [
+     {
+      "name": "/website"
+     }
+    ]
+   }, 
+   {
+    "name": "/software"
+   }, 
+   {
+    "name": "/art", 
+    "children": [
+     {
+      "name": "/art/play"
+     }, 
+     {
+      "name": "/art/written_work"
+     }, 
+     {
+      "name": "/art/film"
+     }, 
+     {
+      "name": "/art/music"
+     }, 
+     {
+      "name": "/art/newspaper"
+     }
+    ]
+   }, 
+   {
+    "name": "/body_part"
+   }, 
+   {
+    "name": "/train"
+   }, 
+   {
+    "name": "/time"
+   }, 
+   {
+    "name": "/disease"
+   }, 
+   {
+    "name": "/god"
+   }, 
+   {
+    "name": "/rail", 
+    "children": [
+     {
+      "name": "/rail/railway"
+     }
+    ]
+   }, 
+   {
+    "name": "/product", 
+    "children": [
+     {
+      "name": "/product/mobile_phone"
+     }, 
+     {
+      "name": "/product/airplane"
+     }, 
+     {
+      "name": "/product/spacecraft"
+     }, 
+     {
+      "name": "/product/ship"
+     }, 
+     {
+      "name": "/product/instrument"
+     }, 
+     {
+      "name": "/product/computer"
+     }, 
+     {
+      "name": "/product/weapon"
+     }, 
+     {
+      "name": "/product/camera"
+     }, 
+     {
+      "name": "/product/car"
+     }, 
+     {
+      "name": "/product/engine_device"
+     }
+    ]
+   }, 
+   {
+    "name": "/chemistry"
+   }, 
+   {
+    "name": "/organization", 
+    "children": [
+     {
+      "name": "/organization/company"
+     }, 
+     {
+      "name": "/organization/fraternity_sorority"
+     }, 
+     {
+      "name": "/organization/terrorist_organization"
+     }, 
+     {
+      "name": "/organization/sports_team"
+     }, 
+     {
+      "name": "/organization/sports_league"
+     }, 
+     {
+      "name": "/organization/airline"
+     }, 
+     {
+      "name": "/organization/educational_institution"
+     }
+    ]
+   }, 
+   {
+    "name": "/biology"
+   }, 
+   {
+    "name": "/title"
+   }, 
+   {
+    "name": "/news_agency"
+   }, 
+   {
+    "name": "/food"
+   }, 
+   {
+    "name": "/education", 
+    "children": [
+     {
+      "name": "/education/educational_degree"
+     }, 
+     {
+      "name": "/education/department"
+     }
+    ]
+   }, 
+   {
+    "name": "/broadcast", 
+    "children": [
+     {
+      "name": "/broadcast_program"
+     }, 
+     {
+      "name": "/broadcast_network"
+     }, 
+     {
+      "name": "/broadcast/tv_channel"
+     }
+    ]
+   }, 
+   {
+    "name": "/computer", 
+    "children": [
+     {
+      "name": "/computer/algorithm"
+     }, 
+     {
+      "name": "/computer/programming_language"
+     }
+    ]
+   }, 
+   {
+    "name": "/living_thing", 
+    "children": [
+     {
+      "name": "/animal"
+     }
+    ]
+   }, 
+   {
+    "name": "/government", 
+    "children": [
+     {
+      "name": "/government/political_party"
+     }, 
+     {
+      "name": "/government_agency"
+     }, 
+     {
+      "name": "/government/government"
+     }
+    ]
+   }, 
+   {
+    "name": "/award"
+   }, 
+   {
+    "name": "/geography", 
+    "children": [
+     {
+      "name": "/geography/park"
+     }, 
+     {
+      "name": "/geography/mountain"
+     }, 
+     {
+      "name": "/geography/glacier"
+     }, 
+     {
+      "name": "/geography/island"
+     }
+    ]
+   }, 
+   {
+    "name": "/person", 
+    "children": [
+     {
+      "name": "/person/monarch"
+     }, 
+     {
+      "name": "/person/author"
+     }, 
+     {
+      "name": "/person/architect"
+     }, 
+     {
+      "name": "/person/musician"
+     }, 
+     {
+      "name": "/person/engineer"
+     }, 
+     {
+      "name": "/person/politician"
+     }, 
+     {
+      "name": "/person/terrorist"
+     }, 
+     {
+      "name": "/person/religious_leader"
+     }, 
+     {
+      "name": "/person/director"
+     }, 
+     {
+      "name": "/person/doctor"
+     }, 
+     {
+      "name": "/person/actor"
+     }, 
+     {
+      "name": "/person/coach"
+     }, 
+     {
+      "name": "/person/athlete"
+     }, 
+     {
+      "name": "/person/soldier"
+     }, 
+     {
+      "name": "/person/artist"
+     }
+    ]
+   }, 
+   {
+    "name": "/building", 
+    "children": [
+     {
+      "name": "/building/airport"
+     }, 
+     {
+      "name": "/building/library"
+     }, 
+     {
+      "name": "/building/sports_facility"
+     }, 
+     {
+      "name": "/building/power_station"
+     }, 
+     {
+      "name": "/building/dam"
+     }, 
+     {
+      "name": "/building/hotel"
+     }, 
+     {
+      "name": "/building/theater"
+     }, 
+     {
+      "name": "/building/hospital"
+     }, 
+     {
+      "name": "/building/restaurant"
+     }
+    ]
+   }, 
+   {
+    "name": "/language"
+   }, 
+   {
+    "name": "/religion/religion"
+   }, 
+   {
+    "name": "/location", 
+    "children": [
+     {
+      "name": "/location/country"
+     }, 
+     {
+      "name": "/location/county"
+     }, 
+     {
+      "name": "/location/city"
+     }, 
+     {
+      "name": "/location/cemetery"
+     }, 
+     {
+      "name": "/location/bridge"
+     }, 
+     {
+      "name": "/location/body_of_water"
+     }, 
+     {
+      "name": "/location/province"
+     }
+    ]
+   }, 
+   {
+    "name": "/astral_body"
+   }
+  ]
+ }
